@@ -1,0 +1,17 @@
+# Root-level sensitive files
+/00_context.md
+/00_index.md
+/01_goal_codex.md
+/01_scan_mindmap.md
+
+# Personal and project directories
+/mvp/context/
+/mvp/Knowledge-base/
+/mvp/Logs_archive/
+/mvp/Sprint/
+/pos/
+/boroda_borisa/
+/legal&taxes/
+
+# macOS system files
+.DS_Store
